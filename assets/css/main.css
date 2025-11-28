@@ -826,4 +826,5 @@ input, select, textarea {
 
 		}
 @media screen and (orientation: landscape) {
+			display: none;
 	         width: 90%;}
