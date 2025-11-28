@@ -572,7 +572,7 @@ input, select, textarea {
 					-webkit-flex-shrink: 1;
 					-ms-flex-shrink: 1;
 					flex-shrink: 1;
-					width: calc(50vw - 15px) !important;
+					width: calc(80vw - 15px) !important;
 					margin: 2.5px;
 					box-shadow: 0 0 0 5px #ffffff;
 				}
@@ -806,10 +806,10 @@ input, select, textarea {
 				background: #0a0f1c;
 				box-shadow: 0px 0px 30px 10px rgba(8, 11, 19, 0.85);
 				border: solid 2.5px #fff;
-				/*-moz-box-sizing: content-box;
+				-moz-box-sizing: content-box;
 				-webkit-box-sizing: content-box;
 				-ms-box-sizing: content-box;
-				box-sizing: content-box;*/
+				box-sizing: content-box;
 			}
 
 				.poptrox-popup .caption {
