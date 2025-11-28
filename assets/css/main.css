@@ -731,7 +731,7 @@ input, select, textarea {
 			bottom: 0;
 			left: 0;
 			background: #1a1f2c;
-			background: rgba(240, 158, 233, 0.85);
+			background: rgba(240, 158, 233,0.25);
 			display: block;
 			width: 100%;
 			line-height: 75px;
@@ -749,11 +749,11 @@ input, select, textarea {
 			-ms-transition: opacity 0.25s ease-in-out;
 			transition: opacity 0.25s ease-in-out;
 			color: rgb(220, 20, 60);
-			opacity: 0.5;
+			opacity: 0.1;
 		}
 
 			.poptrox-popup .nav-next:hover, .poptrox-popup .nav-previous:hover {
-				opacity: 1.0;
+				opacity: 1.5;
 			}
 
 		.poptrox-popup .nav-next, .poptrox-popup .nav-previous {
