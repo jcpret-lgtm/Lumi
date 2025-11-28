@@ -826,5 +826,5 @@ input, select, textarea {
 
 		}
 @media screen and (max-width: 736px) and (orientation: landscape) {
-			.poptrox-popup {box-sizing:border-box;
-	         min-width: 90%;}}
+			.poptrox-popup {display: none;}
+            }
