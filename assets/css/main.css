@@ -826,6 +826,7 @@ input, select, textarea {
 
 		}
 @media screen and (orientation: landscape) {
-			.poptrox-popup {width: device-width;}
+			.poptrox-popup {width: 80%;}
+	       .image {min-width: 70%;}
 	        }
 }  
