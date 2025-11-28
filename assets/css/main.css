@@ -601,7 +601,7 @@ input, select, textarea {
 		@media screen and (max-width: 480px) {
 
 			#main .item {
-				height: 50vh;
+				height: 10em;
 			}
 
 		}
