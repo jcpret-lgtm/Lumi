@@ -827,4 +827,7 @@ input, select, textarea {
 		}
 @media screen and (max-width: 736px) and (orientation: landscape) {
 			.poptrox-popup {display: none;}
+	        article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+	display: none;}
             }
