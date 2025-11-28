@@ -830,7 +830,7 @@ input, select, textarea {
 	        article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: none;}
-	{#main .item {
+	#main .item {
 					-moz-flex-grow: 1;
 					-webkit-flex-grow: 1;
 					-ms-flex-grow: 1;
@@ -843,4 +843,4 @@ footer, header, hgroup, menu, nav, section {
 					margin: 2.5px;
 					box-shadow: 0 0 0 2px #ffffff;
 				}}
-            }
+            
