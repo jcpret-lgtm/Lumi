@@ -603,6 +603,9 @@ input, select, textarea {
 			#main .item {
 				height: 10em;
 			}
+			#main .item.thumb h2 {
+						display: none;
+					}
 
 		}
 
