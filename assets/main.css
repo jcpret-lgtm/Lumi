@@ -117,3 +117,11 @@ h2{color:#fff;margin-bottom:40px;text-align:center;font-weight:100;}
   padding-bottom: 80px; 
 
 }
+@media screen and (max-width: 480px) {
+  .demo-gallery > ul > li {
+    float: left;
+    margin-bottom: 15px;
+    margin-right: 5px;
+    width: 100px;
+}
+
